@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa614c34-a564-44cc-8861-33017d765465" name="Changes" comment="fixed .idea">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    <list default="true" id="fa614c34-a564-44cc-8861-33017d765465" name="Changes" comment="dockerfile and docker-compose file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,13 +114,22 @@
       <option name="project" value="LOCAL" />
       <updated>1742591022967</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="dockerfile and docker-compose file">
+      <option name="closed" value="true" />
+      <created>1742850134773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742850134773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All java files back up to date" />
     <MESSAGE value="little clean up" />
     <MESSAGE value="fixed .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed .idea" />
+    <MESSAGE value="dockerfile and docker-compose file" />
+    <option name="LAST_COMMIT_MESSAGE" value="dockerfile and docker-compose file" />
   </component>
 </project>
